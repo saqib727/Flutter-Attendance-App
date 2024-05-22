@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363564566380",
+    "project_id": "alpha-988cc",
+    "storage_bucket": "alpha-988cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363564566380:android:61719df0b9ec109dfc9549",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYMHFAv9oSXxm8ua1CPOcI9Y0q5k-yl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
